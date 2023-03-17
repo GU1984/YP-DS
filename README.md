@@ -20,5 +20,5 @@
 | 13	| [Базовый  SQL](https://github.com/georgeusynin1984/Yandex-Practicum/tree/main/13.%20Базовый%20SQL)| Написание запросов |	- SQL|
 | 14	| [Компьютерное зрение](https://github.com/georgeusynin1984/Yandex-Practicum/tree/main/14.%20Компьютерное%20зрение) | Построение модели, которая по фотографии определит приблизительный возраст человека |	- Keras<br>- NumPy<br>- PIL<br>- Matplotlib |
 | 15	| [Обучение без учителя](https://github.com/georgeusynin1984/Yandex-Practicum/tree/main/15.%20Обучение%20без%20учителя) | ТЕКСТ ПОСЛЕ ПРОХОЖДЕНИЯ МОДУЛЯ |	ИНСТРУМЕНТЫ |
-| 16	| [Выпуcкной проект](https://github.com/georgeusynin1984/Yandex-Practicum/tree/main/16.%20Выпуcкной%20проект) | ТЕКСТ ПОСЛЕ ПРОХОЖДЕНИЯ МОДУЛЯ |	ИНСТРУМЕНТЫ |
+| 16	| [Выпуcкной проект](https://github.com/georgeusynin1984/Yandex-Practicum/tree/main/16.%20Выпускной%20проект) | ТЕКСТ ПОСЛЕ ПРОХОЖДЕНИЯ МОДУЛЯ |	ИНСТРУМЕНТЫ |
 
