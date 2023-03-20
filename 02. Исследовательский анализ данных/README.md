@@ -14,7 +14,7 @@
 
 ## Используемые библиотеки
 
-Pandas
-NumPy
-Matplotlib
-Seaborn
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
