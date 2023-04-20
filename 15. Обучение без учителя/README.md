@@ -13,7 +13,11 @@
 ## Результат:
 
 1. Произведено разделение пользователей на 3 сегмента.
+<img width="357" alt="Plot1" src="https://user-images.githubusercontent.com/45098537/233290563-a8c7995c-c55e-45d8-aed6-71f609f8bfa1.png">
+
 2. При деление на сегменты обнаружено, что фактически наблюдаются 4 сегмента.
+<img width="337" alt="Plot2" src="https://user-images.githubusercontent.com/45098537/233290655-8ac5c299-0bb9-4204-8bcc-85aa727f9807.png">
+
 
 ## Используемые библиотеки:
 
